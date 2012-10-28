@@ -35,7 +35,7 @@ class ApplicationController < Sinatra::Base
    end
 
    get '/' do
-        "hello world"
+        "LOL, bundles of stick"
     end
 
    get '/foo/?' do
